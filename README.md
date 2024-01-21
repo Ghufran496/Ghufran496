@@ -1,13 +1,18 @@
 ![MasterHead](https://png.pngtree.com/background/20220729/original/pngtree-programming-and-coding-banner-working-picture-image_1862296.jpg)
-<h1 align="center">Hi 👋, I'm Ghufran Ullah</h1>
-<h3>A passionate Next JS & React Developer from Pakistan</h3>
+<h1 style={{ fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '10px' }}>Hi 👋, I'm Ghufran Ullah</h1>
+  <h3 style={{ marginBottom: '20px' }}>A passionate Next JS & React Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghufran496&label=Profile%20views&color=0e75b6&style=flat" alt="ghufran496" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghufran496&label=Profile%20views&color=0e75b6&style=flat" alt="ghufran496" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghufran496" alt="ghufran496" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghufran496" alt="ghufran496" /></a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/@ghufran62560062" target="blank"><img src="https://img.shields.io/twitter/follow/@ghufran62560062?logo=twitter&style=for-the-badge" alt="@ghufran62560062" /></a> </p>
-
+<div align="center">
+  <a href="https://twitter.com/@ghufran62560062" target="blank"><img src="https://img.shields.io/twitter/follow/@ghufran62560062?logo=twitter&style=for-the-badge" alt="@ghufran62560062" /></a>
+</div>
 - 🔭 I’m currently working on **LOSTNEST FINAL YEAR PROJECT**
 
 - 🌱 I’m currently learning **MERN STACK**

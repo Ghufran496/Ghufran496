@@ -1,8 +1,6 @@
 ![MasterHead](https://png.pngtree.com/background/20220729/original/pngtree-programming-and-coding-banner-working-picture-image_1862296.jpg)
 <h1 align="center">Hi 👋, I'm Ghufran Ullah</h1>
-<h3>A passionate React Developer from Pakistan</h3>
-
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<h3>A passionate Next JS & React Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghufran496&label=Profile%20views&color=0e75b6&style=flat" alt="ghufran496" /> </p>
 
@@ -10,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@ghufran62560062" target="blank"><img src="https://img.shields.io/twitter/follow/@ghufran62560062?logo=twitter&style=for-the-badge" alt="@ghufran62560062" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Management System**
+- 🔭 I’m currently working on **LOSTNEST FINAL YEAR PROJECT**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📝 I regularly write articles on [https://www.blogger.com/profile/17485110409682114451](https://www.blogger.com/profile/17485110409682114451)
 
-- 💬 Ask me about **C,C++,JAVA,JAVASCRIPT,HTML,CSS,REACTJS**
+- 💬 Ask me about **C,C++,JAVA,JAVASCRIPT,HTML,CSS,REACTJS, NextJS**
 
 - 📫 How to reach me **ghufran.chaudary12@gmail.com**
 
@@ -38,5 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghufran496&" alt="ghufran496" /></p>
 
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 

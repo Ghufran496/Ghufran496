@@ -1,387 +1,609 @@
-# 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--   ██████╗ ██╗  ██╗██╗   ██╗███████╗██████╗  █████╗ ███╗   ██╗            -->
+<!--  ██╔════╝ ██║  ██║██║   ██║██╔════╝██╔══██╗██╔══██╗████╗  ██║            -->
+<!--  ██║  ███╗███████║██║   ██║█████╗  ██████╔╝███████║██╔██╗ ██║            -->
+<!--  ██║   ██║██╔══██║██║   ██║██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║            -->
+<!--  ╚██████╔╝██║  ██║╚██████╔╝██║     ██║  ██║██║  ██║██║ ╚████║            -->
+<!--   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- Animated Wave Header with Enhanced Typography -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27,28,29&height=300&section=header&text=GHUFRAN%20ULLAH&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=🚀%20Full%20Stack%20Developer%20|%20☁️%20Cloud%20Architect%20|%20⚡%20DevOps%20Engineer&descAlignY=51&descSize=25&animation=twinkling&fontFamily=Orbitron" />
-</div>
 
-<!-- Animated Title with Rainbow Effect and Custom Font -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2000&pause=1000&color=F77B00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=%E2%9C%A8+Welcome+to+My+Digital+Universe+%E2%9C%A8;Where+Code+Meets+Creativity+%F0%9F%8E%A8" alt="Typing SVG" />
-  </a>
-</div>
 
-<!-- Animated Social Links -->
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                          HERO BANNER                                │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="https://github.com/ghufran496">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,30:00F0FF,60:8B5CF6,100:FF006E&height=320&section=header&text=GHUFRAN%20ULLAH&fontSize=92&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20FULL-STACK%20ENGINEER%20%E2%80%A2%20CLOUD%20ARCHITECT%20%E2%80%A2%20DEVOPS%20OPERATIVE%20%E2%9A%A1&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=Orbitron" alt="Ghufran Ullah banner" width="100%" />
+</a>
+
+<!-- ─── DYNAMIC TERMINAL TYPING ─── -->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <a href="https://www.linkedin.com/in/ghufran-ullah-b36b411b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/ghufran496">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=60&lines=%3E+SYSTEM.BOOT+%3A%3A+IDENTITY+VERIFIED;%3E+ghufran.exe+%E2%97%84+5%2B+YEARS+RUNTIME;%3E+SOFTWARE+ENGINEER+II+%40+DEVSCOMET;%3E+ARCHITECTING+CLOUD-NATIVE+SYSTEMS;%3E+ALL+SYSTEMS+OPERATIONAL_" alt="Terminal typing animation" />
   </a>
-  <a href="mailto:ghufran.chaudary12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=ghufran496&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ghufran496?style=for-the-badge&color=blueviolet&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ghufran496?style=for-the-badge&color=blueviolet&label=STARS" alt="Stars"/>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Sparkles" width="35" /> About Me <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Sparkles" width="35" />
-
-<!-- Enhanced Animated About Me Section -->
-<div align="center">
-  
-  <!-- Animated Role Title -->
-
-  
-  <!-- Animated Stats Cards -->
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Programming">
-      </td>
-      <td width="67%">
-        
-  <!-- Beautiful Profile Card with Glassmorphism Effect -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 20px;">
-    
-  ```yaml
-  👨‍💻 GHUFRAN ULLAH
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  
-  🎯 Current Role: Mid-Level Software Developer @ Devscomet
-  📍 Location: Islamabad, Pakistan 🇵🇰
-  🎓 Education: BS Software Engineering (CGPA: 3.73/4.0)
-  ⚡ Experience: 5+ Years of Crafting Digital Excellence
-  
-  🔥 CORE EXPERTISE:
-  ┣━━ Frontend Magic ━━━━━━━━━━━━━━━━━━━━━━━━
-  ┃   ► React.js | Angular | Next.js
-  ┃   ► TypeScript | JavaScript ES6+
-  ┃   ► Tailwind CSS | Material-UI
-  ┃
-  ┣━━ Backend Wizardry ━━━━━━━━━━━━━━━━━━━━━
-  ┃   ► .NET Core | Node.js | Express.js
-  ┃   ► RESTful APIs | GraphQL
-  ┃   ► Microservices Architecture
-  ┃
-  ┣━━ Cloud & DevOps ━━━━━━━━━━━━━━━━━━━━━━━
-  ┃   ► Azure | AWS | Docker
-  ┃   ► Kubernetes | CI/CD Pipelines
-  ┃   ► Infrastructure as Code
-  ┃
-  ┗━━ Database Mastery ━━━━━━━━━━━━━━━━━━━━━
-      ► PostgreSQL | MongoDB
-      ► SQL Server | Firebase
-      ► Redis | Elasticsearch
-  
-  💫 ACHIEVEMENTS UNLOCKED:
-  ╔════════════════════════════════════════════╗
-  ║ 🚀 50+ Projects Successfully Delivered     ║
-  ║ ⚡ 40% Faster Deployment Times Achieved    ║
-  ║ 👥 Mentored 3 Junior Developers            ║
-  ║ 🏆 Top Performer Award at HUAWEI           ║
-  ╚════════════════════════════════════════════╝
-  
-  🌈 CURRENT MISSION:
-  "Building the future, one commit at a time,
-   transforming ideas into scalable solutions!"
-  ```
-  
-  </div>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Animated Info Bubbles -->
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" alt="Coding Cat">
-  </div>
-  
-  <!-- Interactive Stats Display with Animation -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-        <br>
-        <img src="https://img.shields.io/badge/CODING_SINCE-2020-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=hourglass&logoColor=white" alt="Coding Since"/>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80">
-        <br>
-        <img src="https://img.shields.io/badge/HAPPY_CLIENTS-100%25-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=heart&logoColor=white" alt="Happy Clients"/>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
-        <br>
-        <img src="https://img.shields.io/badge/LEARNING-ALWAYS-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=bookstack&logoColor=white" alt="Always Learning"/>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80">
-        <br>
-        <img src="https://img.shields.io/badge/COFFEE_CONSUMED-∞-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=buy-me-a-coffee&logoColor=white" alt="Coffee"/>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Animated Personality Traits -->
-  <div align="center">
-    <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Developer DNA <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
-
-  </div>
-  
-</div>
-
-<!-- Animated Skills Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Tech Stack Mastery
+<!-- ─── NEON BADGE ROW ─── -->
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Frontend Magic
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui&theme=dark" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ghufran-ullah-b36b411b9)
+[![Email](https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000)](mailto:ghufran.chaudary12@gmail.com)
+[![Calendly](https://img.shields.io/badge/BOOK_CALL-00F0FF?style=for-the-badge&logo=googlecalendar&logoColor=black&labelColor=000000)](https://calendly.com/ghufran-chaudary12)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-39FF14?style=for-the-badge&labelColor=000000)](https://github.com/ghufran496)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Backend Wizardry  
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,java,cpp&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Database & Cloud Sorcery
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,azure,aws,docker,kubernetes&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tools & DevOps Arsenal
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash,vercel&theme=dark" />
+![Profile views](https://komarev.com/ghpvc/?username=ghufran496&style=for-the-badge&color=00F0FF&label=NEURAL+LINKS&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/ghufran496?style=for-the-badge&color=FF006E&label=NETWORK&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/ghufran496?style=for-the-badge&color=8B5CF6&label=ENERGY&labelColor=000000)
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-3cd8d403-a033-4b19-862b-2859531e8e18.gif" width="100%">
+<!-- ─── ANIMATED DIVIDER ─── -->
 
-## 🏆 Trophy Cabinet & Achievements
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                       SECTION 01 // BOOT.LOG                         │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=130&section=header&text=%5B%2001%20%5D%20%2F%2F%20BOOT.LOG&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=42&desc=initializing%20identity%20matrix&descAlignY=82&descSize=15&descColor=8B5CF6" alt="Section 01 // Boot Log" width="100%" />
+</a>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```bash
+> sudo ./initialize_profile.sh
+
+[████████████████████████████████] 100%
+
+[ OK ] mounting identity_matrix.....................
+[ OK ] loading neural_kernel: ghufran.core
+[ OK ] role: Software Engineer II @ Devscomet
+[ OK ] establishing uplink: Rawalpindi, PK
+[ OK ] credentials: BS Software Eng, UET Taxila (3.73)
+[ OK ] syncing project_archive: 50+ deployments
+[ OK ] calibrating skill_modules: 6 stacks online
+[ OK ] mentorship_protocol: 3 engineers active
+[ OK ] all systems operational.
+
+> whoami
+```
+
+```ts
+const operative = {
+  alias:        "ghufran496",
+  designation:  "Software Engineer II @ Devscomet",
+  basecamp:     "Rawalpindi, Pakistan ◆ remote-friendly",
+  classified:   "BS Software Engineering, UET Taxila (3.73/4.0)",
+  runtime:      "5+ years · 50+ projects shipped",
+  specialties:  ["full_stack", "cloud_architecture", "devops"],
+  combat_record: {
+    deploy_speedup:     "+40%",
+    huawei_internship:  "completed_2022",
+    engineers_mentored: 3,
+    concurrent_ops:     3, // active projects across timezones
+  },
+  current_op:   "AWS Lambda + Next.js platforms for Cirqley",
+  doctrine:     "code is read 1000× more than it's written",
+};
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="coding visual" />
+
+<br /><br />
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="280" alt="developer terminal" />
+
+</td>
+</tr>
+</table>
+
+<!-- ─── METRICS STRIP ─── -->
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghufran496&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🎯 Impact Metrics
+| `PROJECTS` | `DEPLOY_GAIN` | `RUNTIME` | `MENTEES` | `CGPA` |
+|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/50%2B-00F0FF?style=for-the-badge&labelColor=000000) | ![](https://img.shields.io/badge/%2B40%25-FF006E?style=for-the-badge&labelColor=000000) | ![](https://img.shields.io/badge/5%2B_YRS-8B5CF6?style=for-the-badge&labelColor=000000) | ![](https://img.shields.io/badge/3-39FF14?style=for-the-badge&labelColor=000000) | ![](https://img.shields.io/badge/3.73%2F4.0-FFA500?style=for-the-badge&labelColor=000000) |
+
+</div>
+
+<!-- ─── DIVIDER (replaced 212284115 → 212284145, verified alive) ─── -->
+
+![divider](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                     SECTION 02 // TECH_ARSENAL                       │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF006E&height=130&section=header&text=%5B%2002%20%5D%20%2F%2F%20TECH.ARSENAL&fontSize=42&fontColor=FF006E&animation=fadeIn&fontAlignY=42&desc=loaded+modules+%C2%B7+battle-tested&descAlignY=82&descSize=15&descColor=00F0FF" alt="Section 02 // Tech Arsenal" width="100%" />
+</a>
+
+<div align="center">
+
+#### `> languages`
+
+<img src="https://skillicons.dev/icons?i=ts,js,cs,java,python,cpp,bash&theme=dark" alt="languages" />
+
+#### `> frontend`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,materialui,html,css,sass&theme=dark" alt="frontend" />
+
+#### `> backend & apis`
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,spring,graphql&theme=dark" alt="backend" />
+
+#### `> data layer`
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&theme=dark" alt="data" />
+
+#### `> cloud & infrastructure`
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,linux,vercel&theme=dark" alt="cloud" />
+
+#### `> workflow & ops`
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,postman,figma,jira&theme=dark" alt="tools" />
+
+</div>
+
+<!-- ─── ANIMATED TECH GIF STRIP (all verified alive) ─── -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" />
+</div>
+
+<!-- ─── DIVIDER (replaced dead 212284115 with verified 212284145) ─── -->
+
+![divider](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                  SECTION 03 // ENTERPRISE OPS                        │
+     │                       (Devscomet missions)                          │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=8B5CF6&height=130&section=header&text=%5B%2003%20%5D%20%2F%2F%20ENTERPRISE.OPS&fontSize=42&fontColor=8B5CF6&animation=fadeIn&fontAlignY=42&desc=devscomet+%C2%B7+production+deployments&descAlignY=82&descSize=15&descColor=FF006E" alt="Section 03 // Enterprise Ops" width="100%" />
+</a>
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🚀_Projects_Delivered-50+-ff6b6b?style=for-the-badge&labelColor=4ecdc4" alt="Projects"/>
-      <br><b style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Freelance Excellence</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/⚡_Deployment_Speed-40%25_Faster-ff6b6b?style=for-the-badge&labelColor=4ecdc4" alt="Deployment"/>
-      <br><b style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">DevOps Mastery</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/👥_Developers_Mentored-3-ff6b6b?style=for-the-badge&labelColor=4ecdc4" alt="Mentorship"/>
-      <br><b style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Leadership Impact</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎓_CGPA-3.73%2F4.0-ff6b6b?style=for-the-badge&labelColor=4ecdc4" alt="GPA"/>
-      <br><b style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Academic Excellence</b>
-    </td>
+    <td width="50%" valign="top">
+
+#### `▶ OP-001 ▸ CIRQLEY PORTALS`
+
+<sub>**` STATUS `** ![](https://img.shields.io/badge/LIVE-00F0FF?style=flat-square&labelColor=000000) **` YEAR `** `2025` **` SCALE `** `enterprise SaaS`</sub>
+
+Greenfield development of internal portal, payment portal, and ads portal for Cirqley. Architected AWS Lambda backend from scratch, with method-specific functions, performance optimization, and end-to-end deployment pipelines. Stripe checkout, Monday.com API, and Supabase auth.
+
+```diff
++ Next.js  + shadcn  + Supabase  + Stripe  + AWS Lambda  + Monday API
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### `▶ OP-002 ▸ CLOUD MANAGEMENT TOOL`
+
+<sub>**` STATUS `** ![](https://img.shields.io/badge/LIVE-00F0FF?style=flat-square&labelColor=000000) **` YEAR `** `2025` **` SCALE `** `enterprise data`</sub>
+
+Centralized platform for managing ETL pipelines, data schemas, metadata, and Power BI workspaces. Azure Blob + Key Vault integration for secure secret-managed storage. Role-based access across the full ingestion → transformation → reporting flow.
+
+```diff
++ React  + ASP.NET Core  + SQL Server  + Azure  + Power BI
+```
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### `▶ OP-003 ▸ UNIFAIRES PLATFORM`
+
+<sub>**` STATUS `** ![](https://img.shields.io/badge/SHIPPED-39FF14?style=flat-square&labelColor=000000) **` YEAR `** `2024-25` **` SCALE `** `multi-locale`</sub>
+
+Multi-language web platform with separate admin and user portals. Real-time chat (Socket.IO), PDF generation, multi-gateway payments (Stripe / PayPal / Flutterwave), and Google Cloud Translation. Deployed via Docker + Kubernetes.
+
+```diff
++ Next.js  + Express  + MySQL  + Sequelize  + Socket.IO  + Cloudinary
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### `▶ OP-004 ▸ CERIFI EDUTECH LMS`
+
+<sub>**` STATUS `** ![](https://img.shields.io/badge/SHIPPED-39FF14?style=flat-square&labelColor=000000) **` YEAR `** `2024` **` SCALE `** `multi-tenant`</sub>
+
+Multi-tenant LMS for B2B and B2C financial education clients (banks, institutions, legal corps). Tenant isolation, custom course offerings, role-based access, and a Google-Calendar-style schedule planner with auto-generation by study frequency.
+
+```diff
++ Angular 16  + .NET Core WebAPI  + PostgreSQL  + Multi-tenancy
+```
+
+</td>
   </tr>
 </table>
 
-</div>
+<!-- ─── DIVIDER ─── -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="35"> Featured Projects Showcase
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<div align="center">
+<br />
 
-<!-- Project Cards with Hover Effects -->
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                    SECTION 04 // FIELD OPS                           │
+     │                   (Independent / Freelance ops)                     │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFA500&height=130&section=header&text=%5B%2004%20%5D%20%2F%2F%20FIELD.OPS&fontSize=42&fontColor=FFA500&animation=fadeIn&fontAlignY=42&desc=independent+missions+%C2%B7+50%2B+shipped&descAlignY=82&descSize=15&descColor=8B5CF6" alt="Section 04 // Field Ops" width="100%" />
+</a>
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3 style="font-family: 'Bebas Neue', cursive; font-size: 1.5em;">☁️ Cloud Management Portal</h3>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
-      <br><br>
-      <i style="font-family: 'Ubuntu', sans-serif;">ETL Pipeline Management with Power BI Integration</i>
-      <br>
-      <b style="font-family: 'Righteous', cursive;">🔥 2024 | Enterprise Solution</b>
-    </td>
-    <td align="center" width="50%">
-      <h3 style="font-family: 'Bebas Neue', cursive; font-size: 1.5em;">🌐 Unifaires Platform</h3>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br><br>
-      <i style="font-family: 'Ubuntu', sans-serif;">Multi-language Platform with Real-time Features</i>
-      <br>
-      <b style="font-family: 'Righteous', cursive;">🚀 2025 | Full Stack</b>
-    </td>
+    <td width="50%" valign="top">
+
+#### `▶ FOX-001 ▸ HELLODREW AI`
+
+<sub>**` SECTOR `** `real estate` **` STACK `** `AI product`</sub>
+
+AI-powered real estate assistant. AI agents handle cold calls, voice conversations, and lead management. RAG over listing data with OpenAI integration.
+
+```diff
++ Next.js  + PostgreSQL  + OpenAI  + Voice AI
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### `▶ FOX-002 ▸ PJ FARMERS MARKET`
+
+<sub>**` SECTOR `** `e-commerce` **` STACK `** `multi-vendor`</sub>
+
+Comprehensive multi-vendor e-commerce platform with vendor dashboards, secure checkout, and real-time order tracking.
+
+```diff
++ Next.js  + Supabase  + Stripe  + Real-time
+```
+
+</td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3 style="font-family: 'Bebas Neue', cursive; font-size: 1.5em;">🎓 Cerifi Edutech</h3>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <br><br>
-      <i style="font-family: 'Ubuntu', sans-serif;">Multi-tenant LMS for Financial Education</i>
-      <br>
-      <b style="font-family: 'Righteous', cursive;">📚 2023 | EdTech Solution</b>
-    </td>
-    <td align="center" width="50%">
-      <h3 style="font-family: 'Bebas Neue', cursive; font-size: 1.5em;">🤖 HelloDrew AI</h3>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <br><br>
-      <i style="font-family: 'Ubuntu', sans-serif;">AI-Powered Real Estate Assistant</i>
-      <br>
-      <b style="font-family: 'Righteous', cursive;">🏠 Freelance | AI Innovation</b>
-    </td>
+    <td width="50%" valign="top">
+
+#### `▶ FOX-003 ▸ LINKUP`
+
+<sub>**` SECTOR `** `social` **` STACK `** `real-time`</sub>
+
+Social networking app with real-time chat, authentication, profile management, and activity-based matchmaking.
+
+```diff
++ Next.js  + Firebase  + Real-time Chat
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### `▶ FOX-004 ▸ RUBBLE ROUSERS`
+
+<sub>**` SECTOR `** `gaming` **` STACK `** `post-apocalyptic`</sub>
+
+Post-apocalyptic gaming platform with complex game mechanics and full user management systems.
+
+```diff
++ Angular  + ASP.NET Core  + Game Mechanics
+```
+
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+#### `▶ FOX-005 ▸ PLANETQRADIO  ·  + 45 OTHER CLASSIFIED OPS`
+
+<sub>**` SECTOR `** `media streaming + multi-domain freelance` **` SINCE `** `2020`</sub>
+
+PlanetQRadio is a Next.js + MongoDB music streaming platform with admin panel and custom media player. Plus 45+ other shipped projects across e-commerce, social platforms, AI tooling, dashboards, and bespoke client work, delivered on Fiverr & Upwork since 2020.
+
+```diff
++ Next.js  + MongoDB  + Admin Panels  + Custom Media Players
+```
+
+</td>
   </tr>
 </table>
 
-</div>
+<!-- ─── DIVIDER ─── -->
 
-<!-- Animated Statistics -->
-## 📊 GitHub Analytics Dashboard
+![divider](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                  SECTION 05 // PERFORMANCE METRICS                   │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=39FF14&height=130&section=header&text=%5B%2005%20%5D%20%2F%2F%20PERFORMANCE.METRICS&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=42&desc=live+telemetry+%C2%B7+github+core&descAlignY=82&descSize=15&descColor=00F0FF" alt="Section 05 // Performance Metrics" width="100%" />
+</a>
+
+<!-- ─── PRIMARY DASHBOARD: profile-summary-cards (CONFIRMED ALIVE) ─── -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghufran496&theme=tokyonight" alt="profile details" width="98%" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ghufran496&show_icons=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117" alt="Ghufran's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghufran496&layout=compact&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghufran496&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghufran496&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghufran496&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=4ecdc4" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghufran496&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghufran496&theme=tokyonight&utcOffset=5" />
 </div>
 
-<!-- Contribution Graph with Animation -->
+<!-- ─── github-readme-stats: PUBLIC INSTANCE PAUSED Nov 2025+
+     The maintainer has paused the shared deployment due to costs.
+     These tags will display correctly only AFTER deploying your own
+     Vercel instance (see SETUP_NOTES at the bottom of this README.
+     If/when the public instance returns, these will hydrate automatically. ─── -->
+
 <div align="center">
-  <h2 style="font-family: 'Bebas Neue', cursive; font-size: 2em;">🔥 Contribution Heatmap</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghufran496&custom_title=Ghufran's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true&area_color=ff6b6b" alt="Contribution Graph" />
+  <img height="195" src="https://github-readme-stats-rickstaa.vercel.app/api?username=ghufran496&show_icons=true&count_private=true&hide_border=true&title_color=00F0FF&icon_color=FF006E&text_color=E0E0FF&bg_color=0A0E27&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats // Ghufran Ullah" />
+  <img height="195" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=ghufran496&layout=donut-vertical&hide_border=true&title_color=00F0FF&text_color=E0E0FF&bg_color=0A0E27&langs_count=8" alt="Top Languages // Ghufran Ullah" />
 </div>
 
-<!-- Snake animation -->
+<!-- ─── STREAK STATS: USING NEW DOMAIN streak-stats.demolab.com ─── -->
+
 <div align="center">
-  <h2 style="font-family: 'Bebas Neue', cursive; font-size: 2em;">🐍 Watch My Contributions Snake</h2>
+  <img src="https://streak-stats.demolab.com?user=ghufran496&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<!-- ─── ACTIVITY GRAPH (CONFIRMED ALIVE) ─── -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghufran496&bg_color=0A0E27&color=00F0FF&line=FF006E&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true&custom_title=COMMIT%20FREQUENCY%20%C2%B7%20HEARTBEAT%20MONITOR" alt="activity graph" width="98%" />
+</div>
+
+<!-- ─── 3D CONTRIBUTION (requires GitHub Action; see SETUP_NOTES) ─── -->
+
+<details open>
+  <summary><samp>&gt; render 3d_contribution_grid.svg</samp></summary>
+  <br />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/ghufran496/ghufran496/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph (requires Action setup)" width="98%" />
+  </div>
+</details>
+
+<!-- ─── TROPHY ROOM (CONFIRMED ALIVE) ─── -->
+
+<div align="center">
+
+#### `▰▰▰▰  TROPHY ROOM  ▰▰▰▰`
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghufran496&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
+</a>
+
+</div>
+
+<!-- ─── DIVIDER ─── -->
+
+![divider](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                    SECTION 06 // CONTRIBUTION GRID                   │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=130&section=header&text=%5B%2006%20%5D%20%2F%2F%20CONTRIBUTION.GRID&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=42&desc=neural+pathway+visualization&descAlignY=82&descSize=15&descColor=FF006E" alt="Section 06 // Contribution Grid" width="100%" />
+</a>
+
+<!-- ─── SNAKE (requires GitHub Action; see SETUP_NOTES) ─── -->
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghufran496/ghufran496/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghufran496/ghufran496/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ghufran496/ghufran496/output/github-contribution-grid-snake-dark.svg" width="98%" />
   </picture>
 </div>
 
-## 🎯 Current Focus & Learning Journey
+<br />
+
+<!-- ─── DIVIDER ─── -->
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                      SECTION 07 // TRAJECTORY                        │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFA500&height=130&section=header&text=%5B%2007%20%5D%20%2F%2F%20TRAJECTORY.LOG&fontSize=42&fontColor=FFA500&animation=fadeIn&fontAlignY=42&desc=career+vector+%C2%B7+chronological&descAlignY=82&descSize=15&descColor=8B5CF6" alt="Section 07 // Trajectory Log" width="100%" />
+</a>
+
+```
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │                                                                         │
+   │   ●  2020      ▸  UET TAXILA   · BS Software Engineering enrollment     │
+   │   │              └─ began freelancing (Fiverr & Upwork)                 │
+   │   │                                                                     │
+   │   ●  2022      ▸  HUAWEI       · Web Development Intern  [Jul–Aug]      │
+   │   │              └─ modern web tech under senior dev mentorship         │
+   │   │                                                                     │
+   │   ●  2023 May  ▸  DEVSCOMET    · Software Development Intern            │
+   │   │  2023 Aug  ▸                  → Junior Full Stack Developer         │
+   │   │                                                                     │
+   │   ●  2024      ▸  DEVSCOMET    · Associate Software Engineer            │
+   │   │              └─ DevOps redesign · +40% deploy speedup               │
+   │   │                                                                     │
+   │   ●  2024 Jun  ▸  GRADUATED    · BS Software Engineering · CGPA 3.73    │
+   │   │              └─ FYP: LostNest (lost & found system, Next.js)        │
+   │   │                                                                     │
+   │   ●  2025 Feb  ▸  DEVSCOMET    · Software Engineer II  ◄ YOU ARE HERE   │
+   │   │              └─ leads 3 concurrent projects across timezones        │
+   │   │              └─ AWS Lambda + Cirqley portal greenfield builds       │
+   │   │              └─ mentoring 3 junior engineers                        │
+   │   │                                                                     │
+   │   ○  ????      ▸  SENIOR ENGINEER · Architect · Technical Lead          │
+   │                                                                         │
+   └─────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- ─── DIVIDER ─── -->
+
+![divider](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                    SECTION 08 // TRANSMISSION                        │
+     └─────────────────────────────────────────────────────────────────────┘ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF006E&height=130&section=header&text=%5B%2008%20%5D%20%2F%2F%20TRANSMISSION.PROTOCOL&fontSize=40&fontColor=FF006E&animation=fadeIn&fontAlignY=42&desc=open+channels+%C2%B7+ready+to+receive&descAlignY=82&descSize=15&descColor=00F0FF" alt="Section 08 // Transmission Protocol" width="100%" />
+</a>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+# inbound channels
+contact:
+  email:    ghufran.chaudary12@gmail.com
+  phone:    +92-349-7935680
+  linkedin: linkedin.com/in/ghufran-ullah
+  schedule: calendly.com/ghufran-chaudary12
+
+# operational status
+availability:
+  status:        OPEN
+  freelance:     accepting
+  full_time:     considering
+  collaboration: always
+
+# preferred missions
+interests:
+  - cloud architecture & migration
+  - distributed systems & microservices
+  - complex frontend rebuilds
+  - AI / LLM-augmented products
+  - mentorship & engineering culture
+
+# location
+basecamp:  Sector L, Phase-8 Bahria Town, Rawalpindi, PK
+remote:    yes
+timezone:  PKT (UTC+5)
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="signal" width="80" />
+
+<br />
+
+#### `> establish_link()`
+
+<br />
+
+[![Email](https://img.shields.io/badge/SEND_TRANSMISSION-FF006E?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000)](mailto:ghufran.chaudary12@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_VIA_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ghufran-ullah-b36b411b9)
+
+[![Calendly](https://img.shields.io/badge/SCHEDULE_BRIEFING-00F0FF?style=for-the-badge&logo=googlecalendar&logoColor=black&labelColor=000000)](https://calendly.com/ghufran-chaudary12)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │                            FOOTER                                   │
+     └─────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-        <br><b style="font-family: 'Righteous', cursive;">🔭 Currently Working On</b><br>
-        <span style="font-family: 'Ubuntu', sans-serif;">Cloud Infrastructure<br>
-        Microservices Architecture<br>
-        AI Integration</span>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-        <br><b style="font-family: 'Righteous', cursive;">🌱 Learning</b><br>
-        <span style="font-family: 'Ubuntu', sans-serif;">Kubernetes Orchestration<br>
-        System Design<br>
-        Web3 Technologies</span>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-        <br><b style="font-family: 'Righteous', cursive;">💡 Interests</b><br>
-        <span style="font-family: 'Ubuntu', sans-serif;">Open Source<br>
-        Tech Mentorship<br>
-        Innovation</span>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<!-- Professional Timeline -->
-## 🚀 Professional Journey Timeline
+```
+> end_of_transmission.
 
-<div align="center">
+> "The best way to predict the future is to build it."
 
-```mermaid
-graph LR
-    A[2020: Started BS Software Engineering] -->|Freelancing| B[2022: HUAWEI Internship]
-    B --> C[2022-2023: Devscomet Intern]
-    C --> D[2023: Junior Developer]
-    D --> E[2023-2024: Associate Engineer]
-    E --> F[2024-Present: Mid-Level Developer]
-    F --> G[Future: Senior Architect]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
-    style F fill:#dfe6e9
-    style G fill:#74b9ff
+> connection closed [ 200 OK ]
 ```
 
 </div>
 
-## 💬 Random Dev Quote
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:8B5CF6,60:00F0FF,100:0A0E27&height=160&section=footer&text=THANKS%20FOR%20VISITING&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer" />
+</a>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <sub>
+    <samp>built with caffeine, curiosity, and entirely too many late nights · last sync 2025</samp>
+  </sub>
 </div>
 
-## 🤝 Let's Connect & Collaborate!
+<!-- ═══════════════════════════════════════════════════════════════════════
+     SETUP_NOTES (delete this block before pushing if you want it hidden)
+     ─────────────────────────────────────────────────────────────────────
+     STATUS REPORT for image services used in this README:
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
-  
-  <br><br>
-  
-  <h3 style="font-family: 'Bebas Neue', cursive; font-size: 1.8em;">💌 Reach Out to Me!</h3>
-  
-  <div style="font-family: 'Ubuntu', sans-serif; font-size: 1.1em;">
-    
-  📧 **Email:** ghufran.chaudary12@gmail.com  
-  📱 **Phone:** +92-3497935680  
-  📍 **Location:** Islamabad, Pakistan  
-  💼 **Open for:** Freelance Projects | Full-time Opportunities | Collaborations
-  
-  </div>
-  
-  <br>
-  
-  <a href="https://www.linkedin.com/in/ghufran-ullah-b36b411b9">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://calendly.com/ghufran-chaudary12">
-    <img src="https://img.shields.io/badge/Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule"/>
-  </a>
-  
-</div>
+     [LIVE]  capsule-render, skillicons, shields.io, komarev, streak-stats
+             (demolab), github-readme-activity-graph, github-profile-trophy,
+             github-profile-summary-cards, readme-typing-svg, all GIFs.
 
-<!-- Animated Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+     [LIVE]  github-readme-stats: using the rickstaa public mirror at
+             github-readme-stats-rickstaa.vercel.app since the official
+             public instance was paused by the maintainer in Nov 2025.
 
-<div align="center">
-  
-  ### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Thanks for visiting! <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27,28,29&height=100&section=footer&animation=twinkling" width="100%"/>
-  
-  ⭐️ **From [ghufran496](https://github.com/ghufran496) with** <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="20" alt="Heart"/>
-  
-</div>
+     [SETUP] Two images require GitHub Actions to populate your repo
+             before they will render. Until then they show 404. Add these
+             workflow files to .github/workflows/ in this profile repo:
+
+             1. snake.yml      generates the contribution-snake SVGs
+                               into the `output` branch
+                               (used by Section 06 // CONTRIBUTION GRID)
+
+             2. 3d-contrib.yml generates profile-3d-contrib SVGs into
+                               the `main` branch
+                               (used by Section 05 // PERFORMANCE METRICS)
+
+             After the first scheduled run of each workflow, the images
+             populate and never break again.
+
+     [TIP]   If anything appears broken in GitHub's edit-mode preview,
+             commit and view the actual rendered profile at
+             github.com/Ghufran496. The camo image proxy needs a real
+             render request to fetch and cache each image.
+     ═══════════════════════════════════════════════════════════════════════ -->
